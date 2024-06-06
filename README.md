@@ -1,5 +1,5 @@
 # Programación Avanzada
-## Periodo académico: Abril - Agosto 2023
+## Periodo académico: Abril - Agosto 2024
 
 Este repositorio contiene los archivos a utilizarse en la asignatura de Programación Avanzada que se dicta en la carrera
 de Computación de la Universidad Técnica Particular de Loja.
@@ -13,7 +13,7 @@ las herramientas.
 
 El entorno tiene instalada las siguientes herramientas:
 
-- Hadoop 3.2
+- Apache Spark 3.2.1 con Hadoop 3.2
 - Zeppelin 0.10.1
 - Java 8.0.362
 - Scala 2.12.15
